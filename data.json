@@ -1,0 +1,90 @@
+[
+    {
+        "title": "ajustes", 
+        "text": "Ajustes"
+    },
+
+    {
+        "title": "camera",
+        "text": "Câmera"
+    },
+
+    {
+        "title": "arquivos",
+        "text": "Arquivos"
+    },
+
+    {
+        "title": "voltar",
+        "text": "Voltar"
+    },
+
+    {
+        "title": "sair",
+        "text": "Sair"
+    },
+
+    {
+        "title": "alterar-idioma",
+        "text": "Alterar idioma"
+    },
+
+    {
+        "title": "aumentar-brilho",
+        "text": "Aumentar Brilho"
+    },
+
+    {
+        "title": "diminuir-brilho",
+        "text": "Diminuir Brilho"
+    },
+
+    {
+        "title": "aumentar-contraste",
+        "text": "Aumentar Contraste"
+    },
+
+    {
+        "title": "diminuir-contraste",
+        "text": "Diminuir Contraste"
+    },
+
+    {
+        "title": "aumentar-volume",
+        "text": "Aumentar Volume"
+    },
+
+    {
+        "title": "diminuir-volume",
+        "text": "Diminuir Volume"
+    },
+
+    {
+        "title": "resetar",
+        "text": "Resetar"
+    },
+
+    {
+        "title": "aumentar-zoom",
+        "text": "Aumentar Zoom"
+    },
+
+    {
+        "title": "diminuir-zoom",
+        "text": "Diminuir Zoom"
+    },
+    {
+        "title": "menu-principal",
+        "text": "Olá, bem vindo ao Help Vision, você está no Menu Principal"
+    },
+
+    {
+        "title": "ajuda-menu-principal",
+        "text": "No Menu Principal, você possui alguns botões: Botão Amarelo, acesso à arquivos, Botão Verde, acesso à câmera, Botão Cinza, menu de ajustes e Botão Vermelho (Fechar aplicativo). Toda a navegação pode ser realizada atráves de comando de voz (Botão central com ícone de microfone)"
+    },
+
+    {
+        "title": "ajuda-menu-ajustes",
+        "text": "No Menu de Ajustes, você pode alterar o idioma do aplicativo, aumentar e diminuir o brilho,  o contraste e o volume. E também resetar para os valores originais."
+    }
+  ]
